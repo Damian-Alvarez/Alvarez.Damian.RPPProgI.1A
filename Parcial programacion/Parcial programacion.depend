@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627907628 source:c:\users\dami_\onedrive\escritorio\parcial programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
